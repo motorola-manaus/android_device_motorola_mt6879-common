@@ -1,6 +1,6 @@
 # Motorola MT6879 Common Device Tree
 
-This repository contains the common device tree and platform definitions for Motorola devices based on the **MediaTek Dimensity 7020 (MT6879)** SoC.
+This repository contains the common device tree and platform definitions for Motorola devices based on the **MediaTek Dimensity 7030 (MT6879)** SoC.
 
 ## Supported Devices
 
@@ -28,6 +28,7 @@ device/motorola/mt6879-common
 * [Kernel Source](https://github.com/motorola-manaus/android_kernel_motorola_mt6879): `kernel/motorola/mt6879`
 * [MediaTek SEPolicy](https://github.com/motorola-manaus/device_mediatek_sepolicy_vndr): `device/mediatek/sepolicy_vndr`
 * [MediaTek Hardware](https://github.com/motorola-manaus/hardware_mediatek): `hardware/mediatek`
+* [Dolby Atmos HAL](https://github.com/motorola-manaus/hardware_dolby): `hardware/dolby`
 
 ## License
 
